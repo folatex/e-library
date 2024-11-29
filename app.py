@@ -97,58 +97,57 @@ books = [
 
     {'id': 50, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://placekitten.com/200/349'},
 
-    {'id': 51, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://placekitten.com/200/350'},
+    {'id': 51, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://i.pinimg.com/736x/eb/3a/ee/eb3aeeaaaf36ca48a2d6adcc062cc909.jpg', 'link':'https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf'},
 
-    {'id': 52, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://placekitten.com/200/351'},
+    {'id': 52, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://i.pinimg.com/736x/b1/f8/0c/b1f80c3add6bdad9b7591baf6658c8af.jpg', 'link':'https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38136.pdf'},
 
-    {'id': 53, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https ://placekitten.com/200/352'},
+    {'id': 53, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://i.pinimg.com/736x/72/ad/49/72ad496ce49fac4852b6b4f20a158332.jpg', 'link':'https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf'},
 
-    {'id': 54, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.', 'image': 'https://placekitten.com/200/353'},
+    {'id': 54, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.', 'image': 'https://i.pinimg.com/736x/c2/0b/d5/c20bd533fa83d1bb73065a96fa3b4dbd.jpg', 'link':'https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf'},
 
-    {'id': 55, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://placekitten.com/200/354'},
+    {'id': 55, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://i.pinimg.com/736x/b5/14/e8/b514e8538f31874547bf013ad7a86e30.jpg', 'link':'https://unidel.edu.ng/focelibrary/books/Computer%20Security%20_%20Principles%20-%20WILLIAM%20STALLINGS_2089.pdf'},
 
-    {'id': 56, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.', 'image': 'https://placekitten.com/200/355'},
+    {'id': 56, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.', 'image': 'https://i.pinimg.com/736x/a0/bb/45/a0bb450a401cf5e9b21fb07b3d4de3fc.jpg', 'link':'https://www.r-5.org/files/books/computers/hw-layers/hardware/digital-desigh/David_Harris_Sarah_Harris-Digital_Design_and_Computer_Architecture-EN.pdf'},
 
-    {'id': 57, 'title': 'The Algorithm Design Manual', 'author': 'Steven S. Skiena', 'description': 'A comprehensive guide to algorithm design.', 'image': 'https://placekitten.com/200/356'},
+    {'id': 57, 'title': 'The Algorithm Design Manual', 'author': 'Steven S. Skiena', 'description': 'A comprehensive guide to algorithm design.', 'image': 'https://i.pinimg.com/736x/9f/a5/43/9fa5437da1047d180b46d2a5c86ac51a.jpg', 'link':'https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf'},
 
-    {'id': 58, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://placekitten.com/200/357'},
+    {'id': 58, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://i.pinimg.com/736x/4c/71/32/4c7132cee99bdc4631ba570c9ba7dcb2.jpg', 'link':'https://dl.matlabyar.com/siavash/ML/Book/(Adaptive%20computation%20and%20machine%20learning)%20Ethem%20Alpaydin-Introduction%20to%20machine%20learning-MIT%20Press%20(2004).pdf'},
 
-    {'id': 59, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https://placekitten.com/200/358'},
+    {'id': 59, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https://i.pinimg.com/736x/23/65/be/2365beb0bd1a5e3539bae9d0cd60ea08.jpg', 'link':'https://ptgmedia.pearsoncmg.com/images/9780321399526/samplepages/0321399528.pdf'},
 
-    {'id': 60, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.', 'image': 'https://placekitten.com/200/359'},
+    {'id': 60, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.', 'image': 'https://i.pinimg.com/736x/2c/d3/26/2cd32698f424d893e2c7600f69c5612d.jpg', 'link':'http://repo.darmajaya.ac.id/4836/1/Stuart%20Russell%2C%20Peter%20Norvig-Artificial%20Intelligence_%20A%20Modern%20Approach-Prentice%20Hall%20%28%20PDFDrive%20%29.pdf'},
 
-    {'id': 61, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://placekitten.com/200/360'},
+    {'id': 61, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://i.pinimg.com/736x/e0/a7/3b/e0a73b1f864cb1986112efef5b9f3a68.jpg', 'link':'https://ptgmedia.pearsoncmg.com/images/9780137081073/samplepages/0137081073.pdf'},
 
-    {'id': 62, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://placekitten.com/200/361'},
+    {'id': 62, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://i.pinimg.com/736x/86/ef/a3/86efa31b18b7bfd29b97a9d11c87efca.jpg', 'link':'https://ggnindia.dronacharya.info/Downloads/Sub-info/RelatedBook/6thSem/Compiler-Design-TEXT-book-1.pdf'},
 
-    {'id': 63, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://placekitten.com/200/362'},
+    {'id': 63, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://i.pinimg.com/736x/97/ce/52/97ce52347a136c9700e3a83ce8647265.jpg', 'link':'https://www.cse.iitd.ac.in/~rijurekha/col216/quantitative_approach.pdf'},
 
-    {'id': 64, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://placekitten.com/200/363'},
+    {'id': 64, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://i.pinimg.com/736x/7e/61/cc/7e61cc93ccbeca8d1cb544db2328e5d0.jpg', 'link':'https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf'},
 
-    {'id': 65, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://placekitten.com/200/364'},
+    {'id': 65, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://i.pinimg.com/736x/ed/3b/7f/ed3b7fc5e84c9d2c82b8fb0504c4477c.jpg', 'link':'https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf'},
 
-    {'id': 66, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.', 'image': 'https://placekitten.com/200/365'},
+    {'id': 66, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.', 'image': 'https://i.pinimg.com/736x/59/a4/f6/59a4f66c74b6db0663b3e909000a1878.jpg', 'link':'https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf'},
 
-    {'id': 67, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://placekitten.com/200/366'},
+    {'id': 67, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://i.pinimg.com/736x/6e/06/5a/6e065aa46a7019c381ca141c3606ee9a.jpg', 'link':'https://www.pearsonhighered.com/assets/preface/0/1/3/2/0132775069.pdf'},
 
-    {'id': 68, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.', 'image': 'https://placekitten.com/200/367'},
+    {'id': 68, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.', 'image': 'https://i.pinimg.com/736x/e1/d2/97/e1d297b1786232e86405d9ac4db208ea.jpg', 'link':'https://www.r-5.org/files/books/computers/hw-layers/hardware/digital-desigh/David_Harris_Sarah_Harris-Digital_Design_and_Computer_Architecture-EN.pdf'},
 
-    {'id': 69, 'title': 'The Algorithm Design Manual', 'author': 'Steven S. Skiena', 'description': 'A comprehensive guide to algorithm design.', 'image': 'https://placekitten.com/200/368'},
+    {'id': 69, 'title': 'The Algorithm Design Manual', 'author': 'Steven S. Skiena', 'description': 'A comprehensive guide to algorithm design.', 'image': 'https://i.pinimg.com/736x/56/e7/86/56e7861784fed4669a0a87c1ca2561e7.jpg', 'link':'https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf'},
 
-    {'id': 70, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://placekitten.com/200/369'},
+    {'id': 70, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://i.pinimg.com/736x/e2/7f/d4/e27fd4c6f6069fcd3e838b444943334c.jpg', 'link':'https://dl.matlabyar.com/siavash/ML/Book/(Adaptive%20computation%20and%20machine%20learning)%20Ethem%20Alpaydin-Introduction%20to%20machine%20learning-MIT%20Press%20(2004).pdf'},
 
-    {'id': 71, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https ```python'},
-    {'id': 71, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https://placekitten.com/200/370'},
+    {'id': 71, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https://i.pinimg.com/736x/2a/13/42/2a134291facbff3875534fb0fa55325a.jpg', 'link':'http://students.aiu.edu/submissions/profiles/resources/onlineBook/a6A8H5_computer%20graphics.pdf'},
 
-    {'id': 72, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.', 'image': 'https://placekitten.com/200/371'},
+    {'id': 72, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.', 'image': 'https://i.pinimg.com/736x/1b/95/15/1b9515b67ba7ee613b28a840acb66750.jpg', 'link':'http://lib.ysu.am/disciplines_bk/b7707dde83ee24b2b23999b4df5fd988.pdf'},
 
-    {'id': 73, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://placekitten.com/200/372'},
+    {'id': 73, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://i.pinimg.com/736x/f8/64/5e/f8645e92e5613eb320bd589d74e69e26.jpg', 'link':'https://ptgmedia.pearsoncmg.com/images/9780137081073/samplepages/0137081073.pdf'},
 
-    {'id': 74, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://placekitten.com/200/373'},
+    {'id': 74, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://i.pinimg.com/736x/ee/bf/ba/eebfbab59fb613f2a3100bc6e581af1a.jpg', 'link':'https://ggnindia.dronacharya.info/Downloads/Sub-info/RelatedBook/6thSem/Compiler-Design-TEXT-book-1.pdf'},
 
-    {'id': 75, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://placekitten.com/200/374'},
+    {'id': 75, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://i.pinimg.com/736x/1d/cc/20/1dcc20c47deb3031fb127c3e4e74fce3.jpg', 'link':'https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf'},
 
-    {'id': 76, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://placekitten.com/200/375'},
+    {'id': 76, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://i.pinimg.com/736x/75/fc/8e/75fc8e96c1f19f9477295376135931a8.jpg', 'link':'https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38136.pdf'},
 
     {'id': 77, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://placekitten.com/200/376'},
 

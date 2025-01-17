@@ -45,56 +45,56 @@ books = [
     {'id': 24, 'title': 'Database System Concepts', 'author': 'Abraham Silberschatz et al.', 'description': 'An introduction to database systems.', 'image': 'https://i.pinimg.com/236x/65/bb/61/65bb61ff28075da728cda25a1d62fc7b.jpg', 'link':'https://people.vts.su.ac.rs/~peti/Baze%20podataka/Literatura/Silberschatz-Database%20System%20Concepts%206th%20ed.pdf'},
     {'id': 25, 'title': 'Computer Networks', 'author': 'Andrew S. Tanenbaum', 'description': 'A comprehensive introduction to networking.', 'image': 'https://i.pinimg.com/236x/75/64/71/75647102b7a429b9902905aa97b77c59.jpg', 'link':'https://vfu.bg/en/e-Learning/Computer-Networks--Introduction_Computer_Networking.pdf'},
 
-    {'id': 26, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://placekitten.com/200/325'},
+    {'id': 26, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://i.pinimg.com/736x/4f/41/a4/4f41a402dcbb0d2ae87f2c858947ba20.jpg','link':'https://docs.google.com/file/d/1io_heKtB7q0pE7xaOgCC36P5hOcBf6TU/preview?pli=1'},
 
-    {'id': 27, 'title': 'Software Engineering at Google', 'author': 'Titania McGrath et al.', 'description': 'Insights into software engineering practices at Google.', 'image': 'https://placekitten.com/200/326'},
+    {'id': 27, 'title': 'Software Engineering at Google', 'author': 'Titania McGrath et al.', 'description': 'Insights into software engineering practices at Google.', 'image': 'https://i.pinimg.com/736x/9f/8b/5d/9f8b5d3682b56ce85a2ea925edc57448.jpg' , 'link':'https://cdn.ttgtmedia.com/rms/editorial/Software_Engineering_at_Google_excerpt.pdf'},
 
-    {'id': 28, 'title': 'The Art of Electronics', 'author': 'Paul Horowitz and Winfield Hill', 'description': 'A comprehensive guide to electronics.', 'image': 'https://placekitten.com/200/327'},
+    {'id': 28, 'title': 'The Art of Electronics', 'author': 'Paul Horowitz and Winfield Hill', 'description': 'A comprehensive guide to electronics.', 'image': 'https://i.pinimg.com/736x/a9/a1/df/a9a1df076ffd29047d52219ef8cc690f.jpg','link':'https://artofelectronics.net/wp-content/uploads/2016/02/AoE3_chapter9.pdf'},
 
-    {'id': 29, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://placekitten.com/200/328'},
+    {'id': 29, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://i.pinimg.com/736x/0b/76/01/0b76015ef7804ee81e003a73dbe544c4.jpg','link':'https://www.quantumcomputinglab.cineca.it/wp-content/uploads/2021/10/introduction-to-qc.pdf'},
 
-    {'id': 30, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://placekitten.com/200/329'},
+    {'id': 30, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://i.pinimg.com/736x/b2/29/f7/b229f7270ff44b9c99b426a1fa38411f.jpg','link':'https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/11969/Contents.pdf?sequence=1'},
 
-    {'id': 31, 'title': 'The Design of the UNIX Operating System', 'author': 'Maurice J. Bach', 'description': 'A detailed look at UNIX system design.', 'image': 'https://placekitten.com/200/330'},
+    {'id': 31, 'title': 'The Design of the UNIX Operating System', 'author': 'Maurice J. Bach', 'description': 'A detailed look at UNIX system design.', 'image': 'https://i.pinimg.com/736x/6a/6c/a2/6a6ca2360783138696a4122ce41893da.jpg','link':'https://drive.google.com/file/d/0BwqVG5AG1-yBRDBJWWpZWUcwYTQ/view?resourcekey=0-IqULLPexliY_T06Ye8lILA'},
 
-    {'id': 32, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://placekitten.com/200/331'},
+    {'id': 32, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://i.pinimg.com/736x/1d/72/a0/1d72a09bc8199178827a6d0713be9e45.jpg','link':'https://drive.google.com/file/d/0B1MogsyNAsj9elVzQWR5NWVTSVE/view?resourcekey=0-zoBDMpzTafr6toxDuQLNUg'},
 
-    {'id': 33, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.', 'image': 'https://placekitten.com/200/332'},
+    {'id': 33, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.', 'image': 'https://i.pinimg.com/736x/c2/0b/d5/c20bd533fa83d1bb73065a96fa3b4dbd.jpg','link':'https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_People/Profs/goran/1-Introduction-to-IR.pdf'},
 
-    {'id': 34, 'title': 'Computer Vision: A Modern Approach', 'author': 'David Forsyth and Jean Ponce', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://placekitten.com/200/333'},
+    {'id': 34, 'title': 'Computer Vision: A Modern Approach', 'author': 'David Forsyth and Jean Ponce', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://i.pinimg.com/736x/c3/96/67/c39667d38a68709d7ce633e4a3eec939.jpg','link':'https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/8/73062/files/2017/07/forsyth-ponce-computer-vision-a-modern-approach-14lpgte.pdf'},
 
-    {'id': 35, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://placekitten.com/200/334'},
+    {'id': 35, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://i.pinimg.com/736x/d3/d2/92/d3d292bbc14249f02047609712773cd6.jpg','link':'https://static.googleusercontent.com/media/research.google.com/ar//pubs/archive/38136.pdf'},
 
    
-    {'id': 36, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://placekitten.com/200/335'},
+    {'id': 36, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://i.pinimg.com/736x/79/3a/e1/793ae1ed9511d79b4cb339129f3f8460.jpg','link':'https://drive.google.com/file/d/0BwxUBHTpU9kCZ0JERnJaWDBDN2c/view?resourcekey=0-71i7Q8dA8qYekqpeefoASQ'},
 
-    {'id': 37, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://placekitten.com/200/336'},
+    {'id': 37, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://i.pinimg.com/736x/c0/ca/ad/c0caad124e14d78f0487e6ecba5aeb40.jpg','link':'https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf'},
 
-    {'id': 38, 'title': 'The Elements of Statistical Learning', 'author': 'Trevor Hastie et al.', 'description': 'A comprehensive guide to statistical learning.', 'image': 'https://placekitten.com/200/337'},
+    {'id': 38, 'title': 'The Elements of Statistical Learning', 'author': 'Trevor Hastie et al.', 'description': 'A comprehensive guide to statistical learning.', 'image': 'https://i.pinimg.com/736x/e3/df/bd/e3dfbdf784dd08536c90675a1528e6c9.jpg','link':'http://www.stat.ucla.edu/~ywu/research/documents/BOOKS/ElementsLearningII.pdf'},
 
-    {'id': 39, 'title': 'Artificial Intelligence: A Guide to Intelligent Systems', 'author': 'Michael Negnevitsky', 'description': 'An introduction to intelligent systems.', 'image': 'https://placekitten.com/200/338'},
+    {'id': 39, 'title': 'Artificial Intelligence: A Guide to Intelligent Systems', 'author': 'Michael Negnevitsky', 'description': 'An introduction to intelligent systems.', 'image': 'https://i.pinimg.com/736x/c2/41/0c/c2410c93614707e3b8f5206a042e7ded.jpg','link':'https://api.pageplace.de/preview/DT0400.9781408225752_A25050943/preview-9781408225752_A25050943.pdf'},
 
-    {'id': 40, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://placekitten.com/200/339'},
+    {'id': 40, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://i.pinimg.com/736x/7b/64/89/7b6489af5b9a3f68f04c6411e85c9293.jpg','link':'https://harvard-ml-courses.github.io/cs181-web/static/cs181-textbook.pdf'},
 
-    {'id': 41, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https://placekitten.com/200/340'},
+    {'id': 41, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https://i.pinimg.com/736x/36/ca/c4/36cac4c25425d7c7d585c11d76d1cbcd.jpg','link':'https://drive.google.com/file/d/0B2ocTDj7zqFKbU0wR0w3Njh3YWs/view?resourcekey=0-vzTmX6-yZSM1RgF3EtT6jw'},
 
-    {'id': 42, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.', 'image': 'https://placekitten.com/200/341'},
+    {'id': 42, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.', 'image': 'https://i.pinimg.com/736x/8b/2f/d9/8b2fd93199f214fee312431b26651a8e.jpg','link':'https://drive.google.com/file/d/0BwKPtivBkcs9eDJVdW90YkNlUEk/view?resourcekey=0-_FxQv6f-eoXe9IQ0J8czcg'},
 
-    {'id': 43, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://placekitten.com/200/342'},
+    {'id': 43, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://i.pinimg.com/736x/41/f1/d1/41f1d1ad9e71b669031bd13773cdc84e.jpg','link':'https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf'},
 
-    {'id': 44, 'title': 'Computer Vision: Algorithms and Applications', 'author': 'Richard Szeliski', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://placekitten.com/200/343'},
+    {'id': 44, 'title': 'Computer Vision: Algorithms and Applications', 'author': 'Richard Szeliski', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://i.pinimg.com/736x/0b/9a/67/0b9a67359ffd86ea754e18bebc51ebf7.jpg','link':'http://mesh.brown.edu/engn1610/szeliski/01-Introduction.pdf'},
 
-    {'id': 45, 'title': 'The Art of Computer Programming', 'author': 'Donald E. Knuth', 'description': 'A comprehensive monograph on algorithms.', 'image': 'https://placekitten.com/200/344'},
+    {'id': 45, 'title': 'The Art of Computer Programming', 'author': 'Donald E. Knuth', 'description': 'A comprehensive monograph on algorithms.', 'image': 'https://i.pinimg.com/736x/f5/f4/c2/f5f4c2696f1c5d91ee1c190bcae1cd1b.jpg','link':'http://lib.ysu.am/disciplines_bk/615bb516c351ea9ebfe76b40f8dbe730.pdf'},
 
-    {'id': 46, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://placekitten.com/200/345'},
+    {'id': 46, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://i.pinimg.com/736x/c5/ec/26/c5ec266513b005a80c86bc0fd199bb5e.jpg','link':'https://www.quantumcomputinglab.cineca.it/wp-content/uploads/2021/10/introduction-to-qc.pdf'},
 
-    {'id': 47, 'title': 'Computer Networking: A Top-Down Approach', 'author': 'James Kurose and Keith Ross', 'description': 'Introduction to computer networking.', 'image': 'https://placekitten.com/200/346'},
+    {'id': 47, 'title': 'Computer Networking: A Top-Down Approach', 'author': 'James Kurose and Keith Ross', 'description': 'Introduction to computer networking.', 'image': 'https://i.pinimg.com/736x/65/14/83/651483ae04b9a7eeeff7d23d84670302.jpg','link':'https://gaia.cs.umass.edu/kurose_ross/Kurose_Ross_TOC_8E.pdf'},
 
-    {'id': 48, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.', 'image': 'https://placekitten.com/200/347'},
+    {'id': 48, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.', 'image': 'https://i.pinimg.com/736x/ab/3f/4f/ab3f4f53ff4424a82c1c59e677ffc2db.jpg','link':'https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf'},
 
-    {'id': 49, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://placekitten.com/200/348'},
+    {'id': 49, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://i.pinimg.com/736x/ed/63/b6/ed63b6b04a673b0da5886014c2d4f190.jpg','link':'https://ptgmedia.pearsoncmg.com/images/9780137081073/samplepages/0137081073.pdf'},
 
-    {'id': 50, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://placekitten.com/200/349'},
+    {'id': 50, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://i.pinimg.com/736x/2e/f9/91/2ef99107ec58fba37e30320f45560c5f.jpg','link':'https://api.pageplace.de/preview/DT0400.9781292037233_A24581712/preview-9781292037233_A24581712.pdf'},
 
     {'id': 51, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://i.pinimg.com/736x/eb/3a/ee/eb3aeeaaaf36ca48a2d6adcc062cc909.jpg', 'link':'https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf'},
 
